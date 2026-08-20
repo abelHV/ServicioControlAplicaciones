@@ -1,0 +1,4 @@
+notepad#2001#Bloc de notas 
+taskmgr#2002#Administrador de tareas para monitorizar
+cmd#2003#Consola de comandos necesaria para soporte
+wordpad#2004#WordPad obligatorio para informes

@@ -1,0 +1,9 @@
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\serveis\Servei\servei\servei\bin\Debug\servei.exe.config
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\serveis\Servei\servei\servei\bin\Debug\servei.exe
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\serveis\Servei\servei\servei\bin\Debug\servei.pdb
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\serveis\Servei\servei\servei\obj\Debug\servei.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\serveis\Servei\servei\servei\obj\Debug\servei.ProjectInstaller.resources
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\serveis\Servei\servei\servei\obj\Debug\servei.csproj.GenerateResource.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\serveis\Servei\servei\servei\obj\Debug\servei.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\serveis\Servei\servei\servei\obj\Debug\servei.exe
+C:\Users\Abel\Desktop\DAM2-PENDENT\DAM2-SERVEIS-PROCESSOS\PROCESOS\serveis\Servei\servei\servei\obj\Debug\servei.pdb

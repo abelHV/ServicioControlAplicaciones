@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\serveis\\Servei\\servei\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{296F11DA-EC08-457C-B877-CD2F2D6F673B}|servei\\servei.csproj|c:\\serveis\\servei\\servei\\servei\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296F11DA-EC08-457C-B877-CD2F2D6F673B}|servei\\servei.csproj|solutionrelative:servei\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296F11DA-EC08-457C-B877-CD2F2D6F673B}|servei\\servei.csproj|C:\\serveis\\Servei\\servei\\servei\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{296F11DA-EC08-457C-B877-CD2F2D6F673B}|servei\\servei.csproj|solutionrelative:servei\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296F11DA-EC08-457C-B877-CD2F2D6F673B}|servei\\servei.csproj|C:\\serveis\\Servei\\servei\\servei\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296F11DA-EC08-457C-B877-CD2F2D6F673B}|servei\\servei.csproj|solutionrelative:servei\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296F11DA-EC08-457C-B877-CD2F2D6F673B}|servei\\servei.csproj|C:\\serveis\\Servei\\servei\\servei\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296F11DA-EC08-457C-B877-CD2F2D6F673B}|servei\\servei.csproj|solutionrelative:servei\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296F11DA-EC08-457C-B877-CD2F2D6F673B}|servei\\servei.csproj|C:\\serveis\\Servei\\servei\\servei\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{296F11DA-EC08-457C-B877-CD2F2D6F673B}|servei\\servei.csproj|solutionrelative:servei\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "C:\\serveis\\Servei\\servei\\servei\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "servei\\ProjectInstaller.cs",
+              "ToolTip": "C:\\serveis\\Servei\\servei\\servei\\ProjectInstaller.cs",
+              "RelativeToolTip": "servei\\ProjectInstaller.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T12:34:37.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\serveis\\Servei\\servei\\servei\\Program.cs",
+              "RelativeDocumentMoniker": "servei\\Program.cs",
+              "ToolTip": "C:\\serveis\\Servei\\servei\\servei\\Program.cs",
+              "RelativeToolTip": "servei\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T14:51:15.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectInstaller.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\serveis\\Servei\\servei\\servei\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "servei\\ProjectInstaller.cs",
+              "ToolTip": "C:\\serveis\\Servei\\servei\\servei\\ProjectInstaller.cs [Dise\u00F1o]",
+              "RelativeToolTip": "servei\\ProjectInstaller.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T14:48:48.764Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\serveis\\Servei\\servei\\servei\\Service1.cs",
+              "RelativeDocumentMoniker": "servei\\Service1.cs",
+              "ToolTip": "C:\\serveis\\Servei\\servei\\servei\\Service1.cs",
+              "RelativeToolTip": "servei\\Service1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T14:15:55.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\serveis\\Servei\\servei\\servei\\Service1.cs",
+              "RelativeDocumentMoniker": "servei\\Service1.cs",
+              "ToolTip": "C:\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\serveis\\Servei\\servei\\servei\\Service1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Abel\\Desktop\\DAM2-PENDENT\\DAM2-SERVEIS-PROCESSOS\\PROCESOS\\serveis\\Servei\\servei\\servei\\Service1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T14:15:26.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

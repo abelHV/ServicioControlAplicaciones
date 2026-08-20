@@ -1,0 +1,15 @@
+S'haura de descomprimir el fitxer al arrel de l'equip.
+dins del servidor es trobara els .cmd per instalar y desinstalar el servei.
+un cop instalat el servei "ControlServiceDAM" hem de executar el .exe de la app en administrador.
+
+Aquest servei haura de fer el següent:
+obrir:
+cmd
+administrador de tareas
+wordpad
+bloc de notas
+tancar:
+calculadora 
+paint
+herramienta de recorte
+

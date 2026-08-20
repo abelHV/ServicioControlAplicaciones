@@ -1,0 +1,3 @@
+CalculatorApp#101#Calculadora no permitida
+mspaint#1002#Editor Paint prohibido en horas de trabajo
+snippingtool#1004#Herramienta de recortes no autorizada
